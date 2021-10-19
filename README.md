@@ -1,22 +1,17 @@
-# travel
+# Vue 旅遊網首頁
 
-> A Vue.js project
+**頁面連結：[旅遊網](https://gma201011.github.io/travel/)**
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+#### 專為手機尺寸所配置的頁面
 
-# build for production with minification
-npm run build
+<img src="https://toni.tw/travel_index.gif">
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+***
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# Vue-Travel
+### 輪播圖功能
+
+引入 VueAwesomeSwiper：
+
+<img src="https://toni.tw/travel_swiper.gif">
