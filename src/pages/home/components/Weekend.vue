@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div class="title">熱門推薦</div>
+  <div class="title">假日好去處</div>
   <ul>
     <li class="item border-bottom" v-for="item of recommendList" :key="item.id">
         <div class="item-img-wrapper">
