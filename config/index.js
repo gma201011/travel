@@ -12,7 +12,7 @@ module.exports = {
     assetsPublicPath: './',
     proxyTable: {
       '/api': {
-        target: 'https://github.com/gma201011/travel/',
+        target: 'https://localhost:8080',
         pathRewrite: {
           '^/api': '/static/mock'
         }
