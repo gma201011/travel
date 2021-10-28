@@ -20,4 +20,4 @@
 
 ### 景點詳情 & 圖片集
 
-<img src="https://www.toni.tw/detail.gif">
+<img src="https://www.toni.tw/detail.png">
