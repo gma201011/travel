@@ -2,8 +2,9 @@
 
 **頁面連結：[旅遊網](https://gma201011.github.io/travel/)**
 
-**Dependencies：**vuex、vue-router、stylus、axios、vue-awesome-swiper、better-scroll
+**(電腦瀏覽器請開啟 DevTool 的 toggle device toolbar 功能瀏覽)**
 
+Dependencies：vuex、vue-router、stylus、axios、vue-awesome-swiper、better-scroll
 
 
 #### 手機尺寸頁面
