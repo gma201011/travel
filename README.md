@@ -2,16 +2,22 @@
 
 **頁面連結：[旅遊網](https://gma201011.github.io/travel/)**
 
+**Dependencies：**vuex、vue-router、stylus、axios、vue-awesome-swiper、better-scroll
 
 
-#### 專為手機尺寸所配置的頁面
+
+#### 手機尺寸頁面
 
 <img src="https://toni.tw/travel_index.gif">
 
 ***
 
-### 輪播圖功能
+### 城市選擇
 
-引入 VueAwesomeSwiper：
+<img src="https://www.toni.tw/City.gif">
 
-<img src="https://toni.tw/travel_swiper.gif">
+***
+
+### 景點詳情 & 圖片集
+
+<img src="https://www.toni.tw/detail.gif">
