@@ -9,10 +9,10 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: './',
+    assetsPublicPath: '/',
     proxyTable: {
       '/api': {
-        target: 'http://localhost:8080/',
+        target: 'https://github.com/gma201011/travel/',
         pathRewrite: {
           '^/api': '/tree/main/static/mock'
         }
