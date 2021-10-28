@@ -12,9 +12,9 @@ module.exports = {
     assetsPublicPath: './',
     proxyTable: {
       '/api': {
-        target: 'https://github.com/gma201011/travel/',
+        target: 'https://gma201011.github.io/travel/#/city',
         pathRewrite: {
-          '^/api': '/tree/main/static/mock'
+          '^/api': 'https://github.com/gma201011/travel/tree/gh-pages/static/mock'
         }
       },
     },
