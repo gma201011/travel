@@ -26,7 +26,7 @@ export default {
   },
   methods: {
     getCityInfo () {
-      axios.get('https://github.com/gma201011/travel/blob/gh-pages/static/mock/city.json')
+      axios.get('https://gma201011.github.io/travel/static/mock/city.json')
         .then(this.handleGetCityInfoSucc)
     },
     handleGetCityInfoSucc (res) {
