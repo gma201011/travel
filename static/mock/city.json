@@ -1,0 +1,119 @@
+{
+	"ret": true,
+	"data":{
+		"city": "台北",
+		"hotCities": [{
+			"id": 1,
+			"spell": "Keelung",
+			"name": "基隆"
+		}, {
+			"id": 2,
+			"spell": "Yilan",
+			"name": "宜蘭"
+		}, {
+			"id": 3,
+			"spell": "Taipie",
+			"name": "台北"
+		}, {
+			"id": 4,
+			"spell": "New Taipei",
+			"name": "新北"
+		}, {
+			"id": 5,
+			"spell": "Taoyuan",
+			"name": "桃園"
+		}, {
+			"id": 6,
+			"spell": "Hsinchu",
+			"name": "新竹"
+		}],
+		"cities": {
+			"全部城市":[
+			   {
+				"id": 1,
+				"spell": "Keelung",
+				"name": "基隆"
+			}, {
+				"id": 2,
+				"spell": "Yilan",
+				"name": "宜蘭"
+			}, {
+				"id": 3,
+				"spell": "Taipie",
+				"name": "台北"
+			}, {
+				"id": 4,
+				"spell": "New Taipei",
+				"name": "新北"
+			}, {
+				"id": 5,
+				"spell": "Taoyuan",
+				"name": "桃園"
+			}, {
+				"id": 6,
+				"spell": "Hsinchu",
+				"name": "新竹"
+			}, {
+				"id": 7,
+				"spell": "Miaoli",
+				"name": "苗栗"
+			}, {
+				"id": 8,
+				"spell": "Taichung",
+				"name": "台中"
+			}, {
+				"id": 9,
+				"spell": "Nantou",
+				"name": "南投"
+			}, {
+				"id": 10,
+				"spell": "Changhua",
+				"name": "彰化"
+			}, {
+				"id": 11,
+				"spell": "Yunlin",
+				"name": "雲林"
+			}, {
+				"id": 12,
+				"spell": "Chiayi",
+				"name": "嘉義"
+			}, {
+				"id": 13,
+				"spell": "Tainan",
+				"name": "台南"
+			}, {
+				"id": 14,
+				"spell": "Kaohsiung",
+				"name": "高雄"
+			}, {
+				"id": 15,
+				"spell": "Pingtung",
+				"name": "屏東"
+			}, {
+				"id": 16,
+				"spell": "Hualien",
+				"name": "花蓮"
+			}, {
+				"id": 17,
+				"spell": "Taitung",
+				"name": "台東"
+			}, {
+				"id": 18,
+				"spell": "Pingtung",
+				"name": "屏東"
+			}, {
+				"id": 19,
+				"spell": "Quemoy",
+				"name": "金門"
+			}, {
+				"id": 20,
+				"spell": "Penghu",
+				"name": "澎湖"
+			}, {
+				"id": 21,
+				"spell": "Renjiang",
+				"name": "連江"
+			}]
+		}
+	}
+}
